@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023027630666",
+    "firebase_url": "https://meddata-6e413.firebaseio.com",
+    "project_id": "meddata-6e413",
+    "storage_bucket": "meddata-6e413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023027630666:android:4bff36768cb817b5c5ccb3",
+        "android_client_info": {
+          "package_name": "com.example.medico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023027630666-rs0u3n4d7jj8isek51tscl09m04agg0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzv11vQOUw6u79TtLTmyHlbPTD8ku2jeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023027630666-rs0u3n4d7jj8isek51tscl09m04agg0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
